@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%">
   <defs>
     <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#0d1117"/>
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#f6f8fa"/>
+      <stop offset="100%" stop-color="#ffffff"/>
     </linearGradient>
     <linearGradient id="fl" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7c3aed"/>
@@ -15,7 +15,7 @@
   <rect y="0" width="1200" height="2" fill="url(#fl)" opacity="0.5">
     <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <text x="600" y="50" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e">
+  <text x="600" y="50" text-anchor="middle" font-family="monospace" font-size="13" fill="#656d76">
     <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
     Thanks for visiting · ⭐ if you like what I build · 🐍 hiss hiss
   </text>

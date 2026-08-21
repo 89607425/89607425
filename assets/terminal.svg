@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 105" width="80%">
   <defs>
     <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1a1b26"/>
-      <stop offset="100%" stop-color="#16161e"/>
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fa"/>
     </linearGradient>
     <filter id="tg">
       <feGaussianBlur stdDeviation="0.5" result="b"/>
@@ -10,29 +10,29 @@
     </filter>
   </defs>
 
-  <rect width="700" height="105" rx="8" fill="url(#termBg)" stroke="#30363d" stroke-width="1">
-    <animate attributeName="stroke" values="#30363d;#484858;#30363d" dur="4s" repeatCount="indefinite"/>
+  <rect width="700" height="105" rx="8" fill="url(#termBg)" stroke="#d0d7de" stroke-width="1">
+    <animate attributeName="stroke" values="#d0d7de;#7c3aed;#d0d7de" dur="4s" repeatCount="indefinite"/>
   </rect>
 
   <circle cx="18" cy="18" r="5" fill="#ff5f56"/>
   <circle cx="35" cy="18" r="5" fill="#ffbd2e"/>
   <circle cx="52" cy="18" r="5" fill="#27c93f"/>
 
-  <text x="600" y="22" text-anchor="middle" font-family="monospace" font-size="10" fill="#565f89">zsh — 80x24</text>
+  <text x="600" y="22" text-anchor="middle" font-family="monospace" font-size="10" fill="#8c959f">zsh — 80x24</text>
 
   <text x="20" y="48" font-family="monospace" font-size="13" filter="url(#tg)">
-    <tspan fill="#7aa2f7">$</tspan><tspan fill="#a9b1d6"> whoami</tspan><tspan fill="#565f89">  # identify yourself</tspan>
+    <tspan fill="#7c3aed">$</tspan><tspan fill="#1f2328"> whoami</tspan><tspan fill="#8c959f">  # identify yourself</tspan>
   </text>
 
   <text x="20" y="68" font-family="monospace" font-size="13" filter="url(#tg)">
-    <tspan fill="#9ece6a">→</tspan><tspan fill="#e0af68"> houjunyi2005</tspan><tspan fill="#bb9af7"> — professional bug producer</tspan>
+    <tspan fill="#16a34a">→</tspan><tspan fill="#d97706"> houjunyi2005</tspan><tspan fill="#7c3aed"> — professional bug producer</tspan>
   </text>
 
   <text x="20" y="88" font-family="monospace" font-size="13" filter="url(#tg)">
-    <tspan fill="#7aa2f7">$</tspan><tspan fill="#a9b1d6"> </tspan><tspan fill="#9ece6a">while</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#e0af68">alive</tspan><tspan fill="#a9b1d6">) { </tspan><tspan fill="#7dcfff">ship</tspan><tspan fill="#a9b1d6">(); }</tspan>
+    <tspan fill="#7c3aed">$</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#16a34a">while</tspan><tspan fill="#1f2328">(</tspan><tspan fill="#d97706">alive</tspan><tspan fill="#1f2328">) { </tspan><tspan fill="#0891b2">ship</tspan><tspan fill="#1f2328">(); }</tspan>
   </text>
 
-  <rect x="290" y="76" width="8" height="14" fill="#7dcfff">
+  <rect x="290" y="76" width="8" height="14" fill="#7c3aed">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
