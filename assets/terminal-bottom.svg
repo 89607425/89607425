@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 194" role="img" aria-label="terminal session — exit">
+<rect x="0.5" y="0.5" width="799" height="193" rx="6" fill="#f6f8fa"/>
+<path d="M 0.5 0.5 L 0.5 187 A 5.5 5.5 0 0 0 6 193.5 L 794 193.5 A 5.5 5.5 0 0 0 799.5 187 L 799.5 0.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<text x="28.0" y="74.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606a">^C</text><text x="28.0" y="97.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#1a7f37">$</text><text x="36.4" y="97.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#24292f"> exit</text><text x="46.0" y="120.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606a">logout — connection to houjunyi2005 closed</text>
+<rect x="1" y="160" width="798" height="33" fill="#eaeef2"/>
+<line x1="1" y1="160" x2="799" y2="160" stroke="#d0d7de" stroke-width="1"/>
+<text x="24.0" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#1a7f37">● main</text>
+<text x="82.8" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606a">junyi@shenyang</text>
+<text x="776" y="182" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606a">uptime 21y · zsh · UTF-8</text>
+</svg>
