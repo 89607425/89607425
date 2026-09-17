@@ -5,6 +5,5 @@
 <rect x="1" y="160" width="798" height="33" fill="#eaeef2"/>
 <line x1="1" y1="160" x2="799" y2="160" stroke="#d0d7de" stroke-width="1"/>
 <text x="24.0" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#1a7f37">● main</text>
-<text x="82.8" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606a">junyi@shenyang</text>
 <text x="776" y="182" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606a">uptime 21y · zsh · UTF-8</text>
 </svg>
